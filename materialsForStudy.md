@@ -6,6 +6,10 @@ Database
 
 [CookieRun DB Design Case Review](https://www.slideshare.net/_ce/db-42498020)
 
+[MongoDB Quick Reference](https://www.slideshare.net/mongodb/schema-design-by-example)
+
+[MongoDB Schema Design Principle](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)
+
 
 Infrastructure
 ==============
@@ -18,6 +22,8 @@ Programming Language
 [Javascript Core Principle](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)
 
 [Modern Javascript Tutorial](https://javascript.info/)
+
+[Javascript Memory Management](https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management)
 
 [Functional Programming Intro](http://kwangshin.pe.kr/blog/2013/01/21/%EB%B2%88%EC%97%AD-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dfunctional-programming-%EA%B8%B0%EC%B4%88/)
 
