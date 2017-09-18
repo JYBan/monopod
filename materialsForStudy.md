@@ -48,3 +48,8 @@ Practices
 =========
 [CookieRun Example](https://www.slideshare.net/JPark0426/pdf-45656452)
 
+
+Tips
+====
+[Sublime Text 3 Shortcuts](https://m.blog.naver.com/PostView.nhn?blogId=qkrejrqo0474&logNo=220649244852&proxyReferer=https%3A%2F%2Fwww.google.co.jp%2F)
+
