@@ -27,6 +27,8 @@ Programming Language
 
 [Functional Programming Intro](http://kwangshin.pe.kr/blog/2013/01/21/%EB%B2%88%EC%97%AD-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dfunctional-programming-%EA%B8%B0%EC%B4%88/)
 
+[Swift in 40 hours](https://devxoul.gitbooks.io/ios-with-swift-in-40-hours/content/Chapter-2/optionals.html)
+
 
 Algorithm
 =========
