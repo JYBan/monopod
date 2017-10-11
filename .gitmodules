@@ -1,0 +1,3 @@
+[submodule "bano"]
+	path = bano
+	url = git://github.com/JYBan/selfStudy.git
